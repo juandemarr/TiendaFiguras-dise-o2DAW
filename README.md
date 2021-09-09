@@ -4,4 +4,4 @@ Some changes were made in the process.
 
 HTML5 and CSS3 (responsive design, grid, flexbox, etc.).
 
-In => https://juandemarr.github.io/TiendaFiguras-diseno2DAW/
+In => (url in process of uploading to my webpage)
